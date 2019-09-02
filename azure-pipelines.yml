@@ -1,7 +1,7 @@
 pool:
   <<<<<<< HEAD
-  vmImage: 'Ubuntu-16.04'
-  demands:
+  vmImage: 'Ubuntu 16.04'
+  demands: 
     - npm
 
 steps:
